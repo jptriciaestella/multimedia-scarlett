@@ -18,10 +18,22 @@
     border-color:  #FFCDDD !important;
 }
 
-.body{
+a.text-reset{
+    color: #B762C1 !important;
+}
+
+.testi-img{
+    background-image: url("../Assets/Model/model-1.jpg");
+    background-position: center;
+    background-size: auto;
+    border: 2px solid #FFCDDD;
+    border-radius: calc(0.25rem - 1px);
+}
+
+body{
     margin: 0px;
     padding: 0px;
-    background-color: #FFEDED;
+    background: #F7F5F2 !important;
 }
 
 iframe{
