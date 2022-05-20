@@ -1,0 +1,5 @@
+Color Palette
+#8946A6
+#B762C1
+#EA99D5
+#FFCDDD
