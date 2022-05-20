@@ -1,0 +1,49 @@
+*{
+    font-family: 'Nunito', sans-serif;
+}
+
+article{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+article img{
+    width: 50%;
+    border: 10vw solid #B762C1;
+    box-sizing: border-box;
+}
+
+article div{
+    margin: 0 10vw;
+}
+
+.body-product{
+    flex-direction: row-reverse;
+}
+
+.title{
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.dark-purple{
+    background-color: #8946A6 !important;
+    border-color:  #8946A6 !important;
+}
+
+.purple{
+    background-color: #B762C1 !important;
+    border-color:  #B762C1 !important;
+}
+
+.pink{
+    background-color: #EA99D5 !important;
+    border-color:  #EA99D5 !important;
+}
+
+.light-pink{
+    background-color: #FFCDDD !important;
+    border-color:  #FFCDDD !important;
+}
