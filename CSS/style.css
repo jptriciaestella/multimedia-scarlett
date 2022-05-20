@@ -18,14 +18,6 @@
     border-color:  #FFCDDD !important;
 }
 
-a.text-reset{
-    color: #B762C1 !important;
-}
-
-a.text-reset:hover{
-    color: #88498f !important;
-}
-
 .testi-img{
     background-image: url("../Assets/Model/model-1.jpg");
     background-position: center;
@@ -34,6 +26,15 @@ a.text-reset:hover{
     border-radius: calc(0.25rem - 1px);
 }
 
+.btn-primary.dark-purple:hover{
+    background-color: #6e3785 !important;
+    border-color:  #6e3785 !important;
+}
+
+.btn-primary.light-pink:hover{
+    background-color: #EA99D5 !important;
+    border-color:  #EA99D5 !important;
+}
 
 body{
     margin: 0px;
