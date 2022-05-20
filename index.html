@@ -16,34 +16,12 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-light light-pink" style="padding: 0.5rem 1rem;">
-        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarsExample08" aria-controls="navbarsExample08" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <a href="./index.html" class="navbar-brand fw-bold">SCARLETT</a>
-  
-        <div class="navbar-collapse justify-content-md-center collapse" id="navbarsExample08">
-          <ul class="navbar-nav">
-            <li class="nav-item active">
-              <a class="nav-link" href="#">About Us</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Our Products</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Shop Now</a>
-            </li>
-          </ul>
-        </div>
-    </nav>
-
     <!-- WHAT IS SCARLETT -->
     <div class="container d-flex justify-content-between what-is">
         <div class="d-flex flex-column justify-content-center what-is-cont" style="height: 65vh; padding-right: 8vw;">
             <h1>What is Scarlett?</h1>
             <div style="margin: 5px;"></div>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                 Vitae suscipit ut iusto, pariatur temporibus 
                 totam, possimus exercitationem quidem consequuntur 
                 optio aliquid est recusandae, nobis commodi blanditiis autem 
@@ -55,6 +33,7 @@
             <iframe width="520" height="315" src="https://www.youtube.com/embed/YbMzeQ8nPSE" ></iframe>
         </div>
     </div>
+    <div style="margin: 50px;"></div>
 
     <!-- OUR PRODUCTS -->
     <div class="container">
@@ -95,19 +74,19 @@
             <a class="btn btn-primary dark-purple" href="" style="width: 150px;">View All</a>
         </div>
     </div>
-    <div style="margin: 100px;"></div>
+    <div style="margin: 150px;"></div>
 
     <!-- TESTIMONIES -->
-    <div class="container d-flex justify-content-between height: 60vh;">
-        <div class="purple" style="padding: 50px; width:18vw;">
-            <h1 class="display-1" style="overflow-wrap: break-word;">Testimonies</h1>
+    <div class="container d-flex justify-content-between">
+        <div class="card" style="padding: 50px; width:18vw; height: 100vh;">
+            <h1 style="overflow-wrap: break-word;">Testimonies</h1>
         </div>
         <div style="margin: 10px;"></div>
         <div class="testi-img w-100"></div>
         <div style="margin: 10px;"></div>
         <div>
-            <div class="card" style="width: 18rem;">
-                <div class="card-body">
+            <div class="card align-item-center" style="width: 18rem; height: 49vh;">
+                <div class="card-body d-flex flex-column justify-content-center h-100">
                     <h6 class="card-subtitle mb-2 text-muted">Categories</h6>
                     <div style="margin:10px"></div>
                     <h5 class="card-title">Title</h5>
@@ -116,8 +95,8 @@
                 </div>
             </div>
             <div style="margin: 20px;"></div>
-            <div class="card" style="width: 18rem;">
-                <div class="card-body">
+            <div class="card align-item-center" style="width: 18rem; height: 49vh;">
+                <div class="card-body d-flex flex-column justify-content-center h-100">
                     <h6 class="card-subtitle mb-2 text-muted">Categories</h6>
                     <div style="margin:10px"></div>
                     <h5 class="card-title">Title</h5>
@@ -127,14 +106,59 @@
             </div>
         </div>
     </div>
-    <div style="margin: 100px;"></div>
+    <div style="margin: 150px;"></div>
 
     <!-- WHY CHOOSE US -->
-    
+    <div class="container">
+        <div class="card mb-3">
+            <div class="row g-0">
+              <div class="col-md-4">
+                <img src="./Assets/Model/moodel-2.jpg" class="img-fluid rounded-start" style="height: 500px;">
+              </div>
+              <div class="col-md-8">
+                <div class="card-body d-flex flex-column justify-content-center h-100">
+                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    <h1 class="card-title">Why Choose Us?</h1>
+                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                </div>
+              </div>
+            </div>
+        </div>
+    </div>
+    <div style="margin: 20px;"></div>
+    <div class="container d-flex">
+        <div class="card text-dark bg-light mb-3" style="width: 45vw; padding: 2vw;">
+            <div class="card-body">
+              <h5 class="card-title">Key ingredient</h5>
+              <div style="margin: 20px;"></div>
+              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore...</p>
+            </div>
+        </div>
+        <div style="margin: 10px;"></div>
+        <div class="card text-dark bg-light mb-3" style="width: 45vw; padding: 2vw;">
+            <div class="card-body">
+              <h5 class="card-title">How About the safety?</h5>
+              <div style="margin: 20px;"></div>
+              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore..Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore....</p>
+            </div>
+        </div>
+    </div>
+    <div style="margin: 100px;"></div>
 
+    <!-- READY -->
+    <div class="container d-flex justify-content-between align-items-center">
+        <div>
+            <h1>Ready to get started?</h1>
+            <h3 class="fw-normal">Shop now or contact us</h3>
+        </div>
+        <div class="d-flex align-items-center justify-content-between">
+            <a href="#" class="btn btn-primary dark-purple" style="width: 150px; margin-right: 30px;">Our e-commerce</a>
+            <a href="#" class="btn btn-primary light-pink text-dark" style="width: 150px;">Contact Us</a>
+        </div>
+    </div>
 
     <!-- MARGIN FOOTER -->
-    <div style="margin: 100px;"></div>
+    <div style="margin: 100px;" ></div>
 
     <!-- Scripts -->
     <script src="./JS/index.js" defer></script>
