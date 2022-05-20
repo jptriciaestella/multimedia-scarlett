@@ -1,12 +1,21 @@
 
 footer{
-    background-color: #8946A6;
+    background-color:#FFCDDD;
 }
 
 footer a{
     color: black;
     text-decoration: none;
     font-weight: bold;
+}
+
+footer .links{
+    display: flex;
+    align-items:center;
+}
+
+footer a:hover{
+    color: unset;
 }
 
 footer hr{
@@ -34,7 +43,16 @@ footer .social-media{
     justify-content: center;
 }
 
+footer .social-media a{
+    padding: 12px;
+    margin: 0 2px;
+    border-radius: 100px;
+    border: 4px solid white;
+}
+
+
 footer a img {
-    width: 50px;
-    margin: auto 10px;
+    width: 25px;
+    height: 25px;
+    object-fit: contain;
 }
