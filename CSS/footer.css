@@ -1,10 +1,6 @@
 
 footer{
-<<<<<<< HEAD
     background-color:#FFCDDD;
-=======
-    background-color: #8946A6;
->>>>>>> 59328653f8fe07dfd9f5591ebe120f25ffc6685b
 }
 
 footer a{
@@ -13,7 +9,6 @@ footer a{
     font-weight: bold;
 }
 
-<<<<<<< HEAD
 footer .links{
     display: flex;
     align-items:center;
@@ -23,8 +18,6 @@ footer a:hover{
     color: unset;
 }
 
-=======
->>>>>>> 59328653f8fe07dfd9f5591ebe120f25ffc6685b
 footer hr{
     width: 80%;
     margin: 10px 0px;
@@ -50,7 +43,6 @@ footer .social-media{
     justify-content: center;
 }
 
-<<<<<<< HEAD
 footer .social-media a{
     padding: 12px;
     margin: 0 2px;
@@ -63,9 +55,4 @@ footer a img {
     width: 25px;
     height: 25px;
     object-fit: contain;
-=======
-footer a img {
-    width: 50px;
-    margin: auto 10px;
->>>>>>> 59328653f8fe07dfd9f5591ebe120f25ffc6685b
 }
