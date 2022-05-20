@@ -1,0 +1,46 @@
+.dark-purple{
+    background-color: #8946A6 !important;
+    border-color:  #8946A6 !important;
+}
+
+.purple{
+    background-color: #B762C1 !important;
+    border-color:  #B762C1 !important;
+}
+
+.pink{
+    background-color: #EA99D5 !important;
+    border-color:  #EA99D5 !important;
+}
+
+.light-pink{
+    background-color: #FFCDDD !important;
+    border-color:  #FFCDDD !important;
+}
+
+.body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #FFEDED;
+}
+
+iframe{
+    width: 40vw;
+    height: calc(40vw/1.77);
+}
+
+@media (max-width: 780px)  { 
+    .what-is{
+        flex-direction: column-reverse;
+        padding: 30px 0;
+    }
+    .what-is-cont{
+        width: 100% !important;
+        height: fit-content !important;
+        margin: 10px 0;
+    }
+    iframe{
+        width: 80vw;
+        height: calc(80vw/1.77);
+    }
+}
