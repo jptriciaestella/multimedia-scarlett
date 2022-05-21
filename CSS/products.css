@@ -4,5 +4,93 @@ body{
     background: #F7F5F2 !important;
 }
 
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
+main section{
+    width: 100%;
+    margin: 20px 0;
+}
 
+main .types-description{
+    width: 40%;
+    margin-bottom: 0px;
+}
+
+main h2{
+    margin-bottom: 30px;
+}
+
+main .types{
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
+
+main section > h2, main section > p{
+    text-align: center;
+}
+
+main button{
+    background-color: black;
+    color: white;
+    border-radius: 10px !important;
+    margin: 20px 0px !important;
+    width: 150px;
+    border: none;
+    padding: 10px 20px;
+    font-weight: bold;
+}
+
+main .product-lists{
+    display: flex;
+    justify-content: center;
+}
+
+main .product-lists > div{
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+main .product{
+    border-radius: 10px;
+    width: 300px;
+    margin: 10px;
+    background-color: white;
+}
+
+main .product img{
+    /* position: relative; */
+    /* box-sizing: border-box; */
+    /* border: 50px solid black; */
+    /* delete top part to remove border */
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    width: 100%;
+}
+
+main .product .product-description{
+    padding: 20px;
+}
+
+main .product a{
+    text-decoration: none;
+    color: black;
+}
+
+main .product p{
+    font-weight: bold;
+}
+
+main .unsee {
+    display: none;
+}
