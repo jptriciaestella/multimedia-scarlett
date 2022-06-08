@@ -28,13 +28,13 @@
             </p>
         </section>
         <section class="types">
-            <button class="hair-product-btn">
+            <button class="hair-product-btn" onclick="hairBtnClicked()">
                 Hair Product
             </button>
-            <button class="body-product-btn">
+            <button class="body-product-btn" onclick="bodyBtnClicked()">
                 Body Product
             </button>
-            <button class="face-product-btn">
+            <button class="face-product-btn" onclick="faceBtnClicked()">
                 Face Product
             </button>
         </section>
@@ -58,8 +58,16 @@
                         </a>
                     </div>
                 </div>
-            </div>
-            <!-- <div class="body-products">
+                <div class="product">
+                    <img src="../Assets/Products/BodyCare/Lotion-Charming.png" alt="product-image">
+                    <div class="product-description">
+                        <p>Product Name</p>
+                        <br>
+                        <a href="http://">
+                            See More »
+                        </a>
+                    </div>
+                </div>
                 <div class="product">
                     <img src="../Assets/Products/BodyCare/Lotion-Charming.png" alt="product-image">
                     <div class="product-description">
@@ -71,7 +79,7 @@
                     </div>
                 </div>
             </div>
-            <div class="face-products">
+            <div class="body-products unsee">
                 <div class="product">
                     <img src="../Assets/Products/BodyCare/Lotion-Charming.png" alt="product-image">
                     <div class="product-description">
@@ -82,7 +90,29 @@
                         </a>
                     </div>
                 </div>
-            </div> -->
+                <div class="product">
+                    <img src="../Assets/Products/BodyCare/Lotion-Charming.png" alt="product-image">
+                    <div class="product-description">
+                        <p>Product Name</p>
+                        <br>
+                        <a href="http://">
+                            See More »
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="face-products unsee">
+                <div class="product">
+                    <img src="../Assets/Products/BodyCare/Lotion-Charming.png" alt="product-image">
+                    <div class="product-description">
+                        <p>Product Name</p>
+                        <br>
+                        <a href="http://">
+                            See More »
+                        </a>
+                    </div>
+                </div>
+            </div>
         </section>
     </main>
     <footer>
@@ -109,5 +139,8 @@
                 <img src="../Assets/SocialMedia/tokopedia.png" alt="tokopedia">
         </div>
     </footer>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="../JS/product.js"></script>
 </body>
 </html>

@@ -50,7 +50,9 @@ main button{
 
 main .product-lists{
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
 }
 
 main .product-lists > div{
@@ -92,5 +94,5 @@ main .product p{
 }
 
 main .unsee {
-    display: none;
+    display: none !important;
 }
