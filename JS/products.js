@@ -1,8 +1,10 @@
 var SELECTION_STORAGE_KEY = 'SELECTION_STORAGE'
+var OPENED_PRODUCT_STORAGE_KEY = 'OPENED_PRODUCT_STORAGE'
+var OPENED_CATEGORY_STORAGE_KEY = 'OPENED_CATEGORY_STORAGE'
 
 let hideCategory = ['hair', 'face', 'body']
 let showCategory = new Array() 
-let productsData
+
 
 jQuery(() => {
     updateData()
@@ -10,6 +12,7 @@ jQuery(() => {
 })
 
 function updateData(){
+    let productsData
     $.getJSON("../Assets/productsdata.json", data => {
         productsData = data
     }).done(() => {
@@ -80,6 +83,9 @@ function resetArray(){
     showCategory.pop()
 }
 
+// Copy to any clickable product
 function gotoProduct(category, productName){
-
+    localStorage.setItem(OPENED_PRODUCT_STORAGE_KEY, productName)
+    localStorage.setItem(OPENED_CATEGORY_STORAGE_KEY, category)
+    window.location.href = "../choosen-product/"
 }

@@ -1,3 +1,5 @@
+
+
 body{
     margin: 0px;
     padding: 0px;
@@ -8,6 +10,7 @@ main{
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin: 20px 0;
 }
 
 main section{
@@ -20,7 +23,7 @@ main .types-description{
     margin-bottom: 0px;
 }
 
-main h2{
+main h1{
     margin-bottom: 30px;
 }
 
@@ -33,19 +36,23 @@ main .types{
     align-items: stretch;
 }
 
-main section > h2, main section > p{
+main section > h1, main section > p{
     text-align: center;
 }
 
 main button{
-    background-color: black;
+    background-color: #8946A6;
     color: white;
-    border-radius: 10px !important;
+    border-radius: 0.25rem !important;
     margin: 20px 0px !important;
     width: 150px;
     border: none;
     padding: 10px 20px;
-    font-weight: bold;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+main button:hover{
+    background-color: #6e3785;
 }
 
 main .product-lists{
@@ -65,7 +72,8 @@ main .product-lists > div{
 }
 
 main .product{
-    border-radius: 10px;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
     width: 300px;
     margin: 10px;
     background-color: white;
@@ -91,9 +99,14 @@ main .product a{
 }
 
 main .product p{
-    font-weight: bold;
+    font-weight:bold;
 }
 
 main .hide {
     display: none !important;
+}
+
+.product-description div{
+    cursor: pointer;
+    user-select: none;
 }

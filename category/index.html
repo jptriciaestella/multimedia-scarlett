@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Add this for footer -->
+    <link rel="stylesheet" href="../CSS/footer.css">
+    <!-- Styles -->
+    <link rel="stylesheet" href="../CSS/style.css">
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
@@ -9,13 +13,32 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../CSS/categoryProducts.css">
+    <link rel="stylesheet" href="../CSS/category.css">
     <title>Category Products</title>
-    <title>Scarlett Whitening</title>
     <link rel="icon" type="image/x-icon" href="https://scarlettwhitening.com/wp-content/uploads/2021/04/SCARLETT-PNG-2.png">
-    
 </head>
 <body>
+    <nav class="navbar navbar-expand-lg navbar-light light-pink" style="padding: 0.5rem 1rem;">
+        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarsExample08" aria-controls="navbarsExample08" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <a href="../" class="navbar-brand fw-bold">SCARLETT</a>
+  
+        <div class="navbar-collapse justify-content-md-center collapse" id="navbarsExample08">
+          <ul class="navbar-nav">
+            <li class="nav-item active">
+              <a class="nav-link" href="#">About Us</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Our Products</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Shop Now</a>
+            </li>
+          </ul>
+        </div>
+    </nav>
     <main>
         <article class="hair-product">
             <img src="../Assets/Products/HairCare/Salt-Conditioner.png" alt="hair-product">
@@ -50,9 +73,32 @@
             </div>
         </article>
     </main>
-
+    <footer>
+        <div class="links">
+            <a href="products.html">Product</a>
+            <a class="navbar-brand fw-bold" href="index.html">SCARLETT</a>
+            <a href="testimony.html">Testimony</a>
+        </div>
+        <hr>
+        <div class="social-media">
+            <a href="https://www.twitter.com/scarlett">
+                <img src="../Assets/SocialMedia/twitter.png" alt="twitter">
+            </a>
+            <a href="https://www.facebook.com/scarlett">
+                <img src="../Assets/SocialMedia/facebook.png" alt="facebook">
+            </a>
+            <a href="https://www.instagram.com/scarlett">
+                <img src="../Assets/SocialMedia/instagram.png" alt="instagram">
+            </a>
+            <a href="https://www.youtube.com/scarlett">
+                <img src="../Assets/SocialMedia/youtube.png" alt="youtube">
+            </a>
+            <a href="https://www.tokopedia.com/scarlett">
+                <img src="../Assets/SocialMedia/tokopedia.png" alt="tokopedia">
+        </div>
+    </footer>
     <!-- jquery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <script src="../JS/categoryProduct.js"></script>
+    <script src="../JS/category.js"></script>
 </body>
 </html>

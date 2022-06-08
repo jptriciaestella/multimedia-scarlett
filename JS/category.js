@@ -1,4 +1,3 @@
-
 var SELECTION_STORAGE_KEY = 'SELECTION_STORAGE'
 
 function categoryClick(selection){
