@@ -58,6 +58,7 @@ function categoryButtonClicked(category){
 
 function handleSelection(selection){
     changeArray(selection)
+    $('.product-list-description p').text('Try every '+ selection +' product series that we have! ;)')
     manageDisplay()
     resetArray()
 }
