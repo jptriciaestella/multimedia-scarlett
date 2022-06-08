@@ -94,6 +94,6 @@ main .product p{
     font-weight: bold;
 }
 
-main .unsee {
+main .hide {
     display: none !important;
 }
