@@ -1,0 +1,9 @@
+//VSCode config for javascript
+{
+    "typeAcquisition": {
+        "include": [
+            "jquery"
+        ]
+    }
+
+}

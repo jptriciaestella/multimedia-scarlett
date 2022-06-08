@@ -1,3 +1,26 @@
+var SELECTION_STORAGE_KEY = 'SELECTION_STORAGE'
+
+jQuery(() => {
+    handleSelection(localStorage.getItem(SELECTION_STORAGE_KEY))
+})
+
+function handleSelection(selection){
+    switch(selection){
+        case "hair":
+            hairBtnClicked()
+            break
+        case "face":
+            faceBtnClicked()
+            break
+        case "body":
+            bodyBtnClicked()
+            break
+        default:
+            bodyBtnClicked()
+            break
+    }
+}
+
 function hairBtnClicked(){
     console.log("hello")
     $(".hair-products").removeClass("unsee");
