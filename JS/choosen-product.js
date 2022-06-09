@@ -59,5 +59,18 @@ function updateProductExplanation(category, product){
             <img src="" alt="sociolla">
             </a>
         `)
+        index = 0
+        product["reviews"].forEach(review => {
+            $(".product-reviews").append(`
+                <div class="review">
+                    <p class="review-text">
+                        `+ review +`
+                    </p>
+                    <p class="reviewer">
+                        - `+ product["reviewers"][index++] +`
+                    </p>
+                </div>
+            `)
+        })
     }   
 }

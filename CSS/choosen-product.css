@@ -12,6 +12,10 @@ main{
     align-items: center;
 }
 
+p, h2, h1{
+    margin: 0;
+}
+
 .product-explanation{
     height: 100vh;
     display: flex;
@@ -66,3 +70,121 @@ main{
     display: flex;
     flex-direction: row;
 }
+
+.product-ingredients-description{
+    padding: 40vh 0;
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.product-ingredients-description > *{
+    margin: 20px 0;
+}
+
+.product-ingredients{
+    width: 65%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.ingredient{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 200px;
+    height: 300px;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+    margin: 10px;
+    padding: 20px;
+    background-color: white;
+    align-items: center;
+}
+
+.ingredient img{
+    width: 100px;
+    height: 100px;
+}
+
+
+.product-reviews-description{
+    padding: 40vh 0;
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.product-reviews-description > p{
+    width: 50%;
+}
+
+.product-reviews-description > *{
+    margin: 20px 0;
+}
+
+.product-reviews{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.review{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    width: 300px;
+    height: 350px;
+    border-radius: 5px;
+    border: 5px solid rgba(0,0,0,.125);
+    margin: 10px;
+    padding-bottom: 20px;
+}
+
+.review .review-text{
+    height: 15rem;
+    margin: 0 20px;
+    font-size: larger;
+    text-align: left;
+    text-overflow: ellipsis;
+    overflow: scroll;
+    white-space: wrap;
+    
+}
+
+.review .reviewer{
+    font-weight: 600;
+    font-style: italic;
+    text-align: left;
+    font-size: large;
+    margin: 0 20px;
+}
+
+
+
+.review p::-webkit-scrollbar{
+    display: none;
+
+}
+
+
+.review img{
+    align-self: flex-start;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.review p{
+    justify-self: self-end;
+}
+
