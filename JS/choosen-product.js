@@ -50,13 +50,13 @@ function updateProductExplanation(category, product){
         $(".buy-product").append(`
             <p>Buy our products on:</p>
             <a href="https://www.tokopedia.com/search?q=`+ product["name"]  + " Scarlett-Whitening" +`">
-            <img src="" alt="tokopedia">
+            <img src="../Assets/SocialMedia/tokped-horizontal.png" alt="tokopedia">
             </a>
             <a href="https://shopee.co.id/search?keyword=`+ product["name"]  + " Scarlett-Whitening" +`">
-            <img src="" alt="shopee">
+            <img src="../Assets/SocialMedia/shopee-horizontal.png" alt="shopee">
             </a>
             <a href="https://www.sociolla.com/search?q=`+ product["name"] + " Scarlett-Whitening" +`">
-            <img src="" alt="sociolla">
+            <img src="../Assets/SocialMedia/sociolla.jpg" alt="sociolla" ">
             </a>
         `)
         index = 0
