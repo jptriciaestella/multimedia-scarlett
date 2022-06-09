@@ -4,13 +4,23 @@
             "name" : "Yordanian Sea Salt - Shampoo",
             "picture" : "/HairCare/Salt-Shampoo.png",
             "description" : "Scarlett Whitening Body Lotion Charming yang secara teratur dapat membantu menutrisi, melembabkan, dan mencerahkan kulit tubuh dengan lebih maksimal.",
-            "benefits" : ["Melembutkan rambut", "Memperkuat dan mestimulasikan pertumbuhan rambut", "Membuat rambut lebih tebal dan lebih mudah diatur"],
+            "benefits" : ["Mengurangi kadar minyak berlebih di kulit kepala", "Memperkuat folikel dan pertumbuhan rambut", "Mengurangi ketombe pada rambut"],
             "ingredients" : ["Yordanian Sea Salt", "Aqua Demineralisata", "Sodium Sulfate"],
             "reviews" : ["\"Udah sekitar lima bulan aku rutin shampoo-an pake shampoo ini dan bener-bener khasiat nya kerasa banget di aku. Karena kandungan di shampoo ini ada garam laut Yordania yang fungsinya untuk mengurangi ketombe, mengurangi kadar minyak yang ada di kulit kepala dan all of them are work to me. Dengan pemakaian yang rutin, dan perawatan dari produk lain kayak conditioner, menurut ku udah cukup banget buat kalian semua yang mau rambut nya jadi berkilau, dan nggak gatel lagi karena ketombe yang menyebalkan.\"",
                 "\"Harumnya saya suka. Pertama kali pake rambut langsung lembut, halus, ringan, dan wanginya tahan lama. Worth to buy banget.\"",
                 "\"Selalu suka sama wanginya produk Scarlett. Rambut juga terasa lebih bersih dan segar sejak menggunakan shampoo Scarlett. Puas banget pakainya.\""
             ],
             "reviewers" : ["Agnes", "Michele", "Angeline"]
+        },
+
+        {
+            "name" : "Yordanian Sea Salt - Conditioner",
+            "picture" : "/HairCare/Salt-Conditioner.png",
+            "description" : "Scarlett Yordanian Sea Salt Conditioner memiliki sensasi keharuman seperti cuci rambut di salon. Gunakan produk ini bersama dengan Yordanian Sea Salt Shampoo untuk mendapatkan hasil maksimal.",
+            "benefits" : ["Melembutkan rambut", "Memperkuat dan mestimulasikan pertumbuhan rambut", "Membuat rambut lebih tebal dan lebih mudah diatur"],
+            "ingredients" : ["Yordanian Sea Salt", "Aqua Demineralisata", "Cetearyl Alcohol"],
+            "reviews" : ["\"Wanginya enak sih cuma teksturnya padet sampe susah banget mau dikeluarin dari botol terus overprice juga ya isinya dikit tapi harga 55-75rb padahal ya conditioner gitu2 aja kan bikin rambut lembut aja.\""],
+            "reviewers" : ["Cheryl"]
         }
     ],
 
