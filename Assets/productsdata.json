@@ -179,7 +179,7 @@
 
     "face" : [
         {
-            "name" : "Brightly Ever After Day Cream",
+            "name" : "Brightly Ever After Cream - Day",
             "picture" : "/FaceCare/BrightlyCream-Day.png",
             "description" : "Scarlett Whitening Brightly Ever After Day Cream membantu merawat kulit wajah, meningkatkan hidrasi kulit, menutrisi kulit dan juga membuat kulit menjadi lebih glowing.",
             "benefits" : ["Membantu meningkatkan kelembaban serta elastisitas kulit wajah.", "Membantu mencerahkan kulit wajah secara merata.", "Membantu memudarkan bekas-bekas jerawat pada kulit wajah."],
@@ -231,16 +231,146 @@
         },
 
         {
-            "name" : "Acne Wash - Oily",
+            "name" : "Acne Facial Wash - Oily",
             "picture" : "/FaceCare/AcneWash-Oily.png",
-            "description" : "Acne Serum mengandung bahan yang aman. Teteskan 2-3 tetes serum, usap dan pijat secara perlahan sampai merata pada kulit wajah. Diamkan beberapa saat agar serum meresap ke kulit.",
-            "benefits" : ["Membantu menyembuhkan jerawat meradang, jerawat batu, kulit kemerahan dan iritasi.", "Membantu meregenerasi dan menjaga kulit yang sensitive tanpa menimbulkan iritasi.", "Membantu menenangkan kulit, menghaluskan dan juga membantu memudarkan bekas jerawat atau luka.", " Membantu mencerahkan kulit secara aman karena menggunakan Liquorice Extract dan Vitamin C yang juga berfungsi sebagai anti oxidant + anti pollution."],
-            "ingredients" : ["CM Acnatu", "Natural Squalane", "Hexapeptide-8", "Triceramide", "Poreaway", "Natural Vit-C", "Aqua Peptide Glow"],
-            "reviews" : ["\"Bau serum nya emang nggak terlalu enak, cuma khasiat nya bener-bener kerasa banget\"",
+            "description" : "Acne Facial Wash merupakan sabun cuci muka untuk wajah yang berminyak. Tuangkan secukupnya Acne Facial Wash ke telapak tangan, Usap secara merata keseluruh area wajah, lalu bilas. Gunakan secara rutin setiap hari (pagi dan malam).",
+            "benefits" : ["Membantu membersihkan wajah dari kotoran yang dapat menyumbat pori-pori", "Melawan bakteri penyebab jerawat", " Merawat kulit berjerawat", "Mencerahkan noda bekas jerawat dan menjaga kelembapan wajah serta menenangkan kulit yang meradang."],
+            "ingredients" : ["Seaweed Extract", "Tea Tree Extract", "Mugwort Hydrosol", "Vitamin C", "Lemon Water", "Jeju Aloe Vera", "Jeju Rosemary", "Centella Asiatica", "Pomegranate Extract"],
+            "reviews" : ["\"Tekstur sabun nya bagus, dan khasiat nya bener-bener kerasa banget\"",
                 "\"Sejauh ini efeknya bikin jerawat aku hilang. yuk dicoba guys, puas banget! walaupun emang agak lama, tapi kalo rutin hasilnya memuaskan\"",
-                "\"Produk paling favorit sepanjang masa. Bikin tidur nyenyak tanpa perlu mikir jerawat gimana. Thanks, Scarlett!\""
+                "\"Produk paling favorit sepanjang masa. Muka aku jadi cerah banget pake ini\""
             ],
-            "reviewers" : ["Deby", "Bunga", "Feli"]
+            "reviewers" : ["Pelangi", "Awan", "Dicta"]
+        },
+
+        {
+            "name" : "Brightly Ever After Cream - Night",
+            "picture" : "/FaceCare/BrightlyCream-Night.png",
+            "description" : "Gunakan Brightly Ever After Night Cream secara rutin saat malam hari sesudah membersihkan kulit wajah. Diamkan beberapa saat hingga Brightly Ever Night After Cream meresap ke kulit.",
+            "benefits" : ["Membantu meningkatkan kelembapan serta elastisitas kulit wajah.", "Membantu mencerahkan kulit wajah secara merata.", "Membantu memudarkan bekas-bekas jerawat pada kulit wajah.", "Membantu mengecilkan pori-pori pada kulit wajah."],
+            "ingredients" : ["Glutathione", "Niacinamide", "Natural Vit-C", "Hexapeptide-8", "Poreaway", "Green Caviar", "Aqua Peptide Glow"],
+            "reviews" : ["\"Bau cream nya emang nggak terlalu enak, cuma khasiat nya bener-bener kerasa banget\"",
+                "\"Sejauh ini efeknya bikin jerawat aku hilang. top markotop!\"",
+                "\"Produk paling favorit sepanjang masa. Malem-malem nggak perlu khawatir lagiii\""
+            ],
+            "reviewers" : ["Jiah", "Delia", "Maryam"]
+        },
+
+        {
+            "name" : "Brightly Ever After Serum",
+            "picture" : "/FaceCare/BrightlySerum.png",
+            "description" : "Gunakan Brightly Ever After Night Cream secara rutin. Teteskan 2-3 tetes serum, usap dan pijat secara perlahan sampai merata pada kulit wajah. Diamkan beberapa saat agar serum meresap ke kulit.",
+            "benefits" : ["Membantu mencerahkan kulit dan memudarkan noda di wajah seperti hiperpigmentasi, bekas jerawat, flek dan bekas luka.", "Membantu mengontrol kadar minyak berlebih di kulit, membantu mengeceilkan pori-pori, mengimprovisasi warna kulit, menghaluskan kerutan dan juga garis di kulit.", "Membantu menutrisi dan melembabkan kulit.", "Membantu membuat kulit menjadi lebih relax dan calm."],
+            "ingredients" : ["Phyto Whitening", "Glutathione", "Vitamin C", "Niacinamide", "Lavender Water"],
+            "reviews" : ["\"Bau cream nya emang nggak terlalu enak, cuma khasiat nya bener-bener kerasa banget\"",
+                "\"Sejauh ini efeknya bikin jerawat aku hilang. top markotop!\"",
+                "\"Produk paling favorit sepanjang masa. Malem-malem nggak perlu khawatir lagiii\""
+            ],
+            "reviewers" : ["Puan", "Maharani", "Jihan"]
+        },
+
+        {
+            "name" : "Brightening Facial Wash - All Skin Type",
+            "picture" : "/FaceCare/BrightlySerum.png",
+            "description" : "Di dalam Scarlett Whitening Facial Wash terdapat kandungan Glutathione, Vitamin E, Rose Petals dan Aloe Vera yang sangat bagus. Tuangkan secukupnya Acne Facial Wash ke telapak tangan, Usap secara merata keseluruh area wajah, lalu bilas. Gunakan secara rutin setiap hari (pagi dan malam)",
+            "benefits" : ["Membantu mencerahkan wajah.", "Membantu menutrisi serta mengecilkan pori-pori di wajah.", "Membantu mengontrol kadar minyak berlebih di wajah.", "Membantu menghilangkan beruntus/jerawat di wajah."],
+            "ingredients" : ["Glutathione", "Vitamin E", "Rose Petals", "Aloe Vera"],
+            "reviews" : ["\"Sabun nya mantul guys. Cocok banget di muka gue!\"",
+                "\"Sejauh ini efeknya bikin muka aku makin cerah. top markotop!\"",
+                "\"Produk paling favorit sepanjang masa. Malem-malem nggak perlu khawatir lagiii\""
+            ],
+            "reviewers" : ["Mega", "Wati", "Putri"]
+        },
+
+        {
+            "name" : "Serum Glowtening",
+            "picture" : "/FaceCare/Glowtening-Texture.png",
+            "description" : "Di dalam Glowtening Serum mengandung 16,5% Active Ingredients yaitu Tranexamide Acid, Niacinamide, Aloe Vera Extract, Allantoin, Licorice Extract, Calendula Oil, Geranium Oil, dan Olive Oil yang dimana bermanfaat. Teteskan 2-3 tetes serum, usap dan pijat secara perlahan sampai merata pada kulit wajah. Diamkan beberapa saat agar serum meresap ke kulit.",
+            "benefits" : ["Membantu mencerahkan kulit wajah", "Membantu membuat kulit menjadi lebih glowing.", "Membantu memudarkan bekas-bekas jerawat.", "Membantu membuat kulit menjadi lebih sehat."],
+            "ingredients" : ["Tranexamide Acid", "Niacinamide", "Aloe Vera Extract", "Allantoin", "Licorice Extract", "Calendula Oil", "Geranium Oil", "Olive Oil"],
+            "reviews" : ["\"Wangi nya emang nggak terlalu enak cuma Cocok banget di muka gue!\"",
+                "\"Sejauh ini efeknya bikin muka aku makin cerah dan jerawat bye-bye. top banget!\"",
+                "\"Produk paling favorit sepanjang masa. Malem-malem nggak perlu khawatir lagiii\""
+            ],
+            "reviewers" : ["Alika", "Maula", "Zahra"]
+        },
+
+        {
+            "name" : "Seriously Soothing & Hydrating Gel Mask",
+            "picture" : "/FaceCare/MaskGel-Hydrating.png",
+            "description" : "Scarlett Seriously Soothing & Hydrating Gel Mask dapat digunakan untuk merawat kulit kering, kusam, iritasi, dan sensitif.",
+            "benefits" : ["Niacinamide membantu mencerahkan kulit.", "Vitamin C membantu meningkatkan produksi kolagen.", "Grape Fruit Water membantu menjaga lapisan luar kulit terhidrasi.", "Seven Berry Extract sebagai antioxidant pada kulit untuk membantu melawan radikal bebas yang menyebabkan penuaan dini seperti kerutan, kusam dan warna kulit tidak merata."],
+            "ingredients" : ["Niacinamide", "Vitamin C", "Grape Fruit Water", "Seven Berry Extract", "Ginseng Extract", "Centella Asiatica", "Rose Flower Water", "Allantoin"],
+            "reviews" : ["\"Masker paling enak sedun, bahagia banget pokoknya abis pake masker ini\"",
+                "\"Sejauh ini efeknya bikin muka aku makin cerah dan sangat-sangat terhidrasi. top banget!\"",
+                "\"Produk paling favorit sepanjang masa. Muka jadi kerasa lebih ringan dan cerah setiap abis maskeran pake ini. Suka banget deh sama masker nya, aplikasiin ke muka nya juga mudah\""
+            ],
+            "reviewers" : ["Nabila", "Syifa", "Lulu"]
+        },
+
+        {
+            "name" : "Hebalism Mugwort Mask",
+            "picture" : "/FaceCare/MaskHerbalism-Mugwort.png",
+            "description" : "Scarlett Herbalism Mugwort Mask dapat digunakan untuk merawat kulit berminyak, pori-pori besar, berjerawat dan berkomedo. Di dalam Scarlett Herbalism Mugwort Mask terdapat kandungan Mugwort Extract, Vitamin C, Glutathione, Niacinamide, Bamboo Charcoal, Allantoin, Chlorophyllin, Green Tea Powder.",
+            "benefits" : ["Mugwort Extract mempunyai efek membantu menenangkan kulit.", "Vitamin C membantu meningkatkan produksi kolagen.", "Membantu menyamarkan noda pada kulit dan mencerahkan warna kulit.", "Seven Berry Extract sebagai antioxidant pada kulit untuk membantu melawan radikal bebas yang menyebabkan penuaan dini seperti kerutan, kusam dan warna kulit tidak merata."],
+            "ingredients" : ["Niacinamide", "Vitamin C", "Grape Fruit Water", "Seven Berry Extract", "Ginseng Extract", "Centella Asiatica", "Rose Flower Water", "Allantoin"],
+            "reviews" : ["\"Masker paling enak sedun, bahagia banget pokoknya abis pake masker ini\"",
+                "\"Sejauh ini efeknya bikin muka aku makin cerah dan sangat-sangat terhidrasi. top banget!\"",
+                "\"Produk paling favorit sepanjang masa. Muka jadi kerasa lebih ringan dan cerah setiap abis maskeran pake ini. Suka banget deh sama masker nya, aplikasiin ke muka nya juga mudah\""
+            ],
+            "reviewers" : ["Nurul", "Kalila", "Nada"]
+        },
+
+        {
+            "name" : "Niacinamide 5% Beta Glucan 7 Phyto Extract Serum",
+            "picture" : "/FaceCare/Niacinamide.png",
+            "description" : "Di dalam Retinol Serum mengandung Active Ingredients yaitu Niacinamide 5%, Beta Glucan, 7 Phyto Extracts, Tego Cosmo C100 (Creatine), dan Allantoi. Teteskan serum 2-3 tetes pada telapak tangan, Tekan perlahan telapak tangan ke wajah yang telah dibersihkan, lalu tepuk-tepuk wajah dengan gerakan ke luar dan ke atas sampai benar benar merata di wajah dan leher, Tunggu 1-3 menit hingga produk meresap sepenuhnya.",
+            "benefits" : ["Melindungi kulit dari bahaya paparan radikal bebas", "Menyamarkan noda hitam dan mengurangi hiperpegmentasi.", "Memperbaiki dan memperkuat skin barrier", "Mencerahkan dan melembapkan kulit."],
+            "ingredients" : ["Niacinamide 5%", "Beta Glucan", "7 Phyto Extracts", "Tego Cosmo C100 (Creatine)", "Allantoi"],
+            "reviews" : ["\"Serum nya mantul abis, bahagia banget pokoknya abis pake masker ini\"",
+                "\"Sejauh ini efeknya bikin muka aku makin cerah dan bener-bener nyamarin noda hitam yang ada di muka. top banget!\"",
+                "\"Produk paling favorit sepanjang masa! serum nya keren banget noda hitam bener-bener langsung cus- pergiii\""
+            ],
+            "reviewers" : ["Rahma", "Salwa", "Nisma"]
+        },
+
+        {
+            "name" : "Skin Smoothing Retinol Serum",
+            "picture" : "/FaceCare/Serum-Retinol.png",
+            "description" : "Di dalam Retinol Serum mengandung Active Ingredients yaitu Encapsulated Retinol, Pomegranate Extract, Hexapeptide-8, Allantoin dan Vitamin C. Teteskan serum 2-3 tetes pada telapak tangan, Tekan perlahan telapak tangan ke wajah yang telah dibersihkan, lalu tepuk-tepuk wajah dengan gerakan ke luar dan ke atas sampai benar benar merata di wajah dan leher, Tunggu 1-3 menit hingga produk meresap sepenuhnya.",
+            "benefits" : ["Memperbaiki tekstur kulit", "Menyamarkan kerutan dan mencegah tanda-tanda penuaan.", "Merawat kulit berjerawat."],
+            "ingredients" : ["Encapsulated Retinol", "Pomegranate Extract", "Hexapeptide-8", "Allantoin", "Vitamin C"],
+            "reviews" : ["\"Serum nya mantul abis, bahagia banget pokoknya abis pake masker ini\"",
+                "\"Sejauh ini efeknya bikin muka aku makin cerah dan udah nggak berasa lagi kalo aku udah 40-an!!\"",
+                "\"Produk paling favorit sepanjang masa! serum nya keren banget tekstur muka aku jadi lebih lembut dan nggak ada granjel-granjel nya lagi.\""
+            ],
+            "reviewers" : ["Kania", "Farrah", "Aqilah"]
+        },
+
+        {
+            "name" : "Acne Essence Toner",
+            "picture" : "/FaceCare/TonerAcne.png",
+            "description" : "Didalam Scarlett Acne Essence Toner terdapat kandungan Zinc Sebum, Green Tea Water, Tea Tree Water, Phyto, Squalane, Mugwort Hydrosol, Vitamin C, Ginkgo Extract, Succinic Acid, dan Gluconolactone",
+            "benefits" : ["Meminimalkan kemerahan yang diakibatkan oleh jerawat.", "Membantu menenangkan dan merawat kulit berjerawat.", "Mengurangi kemerahan dan pembengkakan", "Melindungi, menutrisi, dan menghidrasi kulit."],
+            "ingredients" : ["Zinc Sebum", "Green Tea Water", "Tea Tree Water", "Phyto", "Squalane", "Mugwort Hydrosol", "Vitamin C", "Ginkgo Extract", "Succinic Acid", "Gluconolactone"],
+            "reviews" : ["\"Toner nya bener-bener enak banget dipake, botol nya juga bikin isi nya awet hehe\"",
+                "\"Sejauh ini efeknya bikin muka aku makin cerah dan kulit nya jadi tenang\"",
+                "\"Produk paling favorit sepanjang masa! Mudah diaplikasiin ke muka nya. Suka binggo!\""
+            ],
+            "reviewers" : ["Raras", "Aulia", "Malva"]
+        },
+
+        {
+            "name" : "Brightly Essence Toner",
+            "picture" : "/FaceCare/TonerBrightly.png",
+            "description" : "Scarlett Brightly Essence Toner mengandung Vitamin C, Glutathione, Witch Hazel Extract, Jeju Propolis Extract, Allantoin, Niacinamide, Grape Water",
+            "benefits" : ["Meningkatkan produksi kolagen.", "Mencerahkan kulit.", "Membantu meredakan peradangan dan mengencangkan pori-pori", "Meregenerasi kulit untuk membantu membuat tekstur kulit lebih halus dan kenyal."],
+            "ingredients" : ["Vitamin C", "Glutathione", "Witch Hazel Extract", "Jeju Propolis Extract", "Allantoin", "Niacinamide", "Grape Water"],
+            "reviews" : ["\"Toner nya bener-bener enak banget dipake, botol nya juga bikin isi nya awet hehe\"",
+                "\"Sejauh ini efeknya bikin muka aku makin cerah dan kulit nya jadi tenang\"",
+                "\"Produk paling favorit sepanjang masa! Mudah diaplikasiin ke muka nya. Suka binggo!\""
+            ],
+            "reviewers" : ["Lala", "Lily", "Tris"]
         }
     ]
 }
