@@ -26,7 +26,6 @@ function productUpdater(category, products){
     products.forEach(
         product => {
             updateProductExplanation(category, product)
-            return true
         }
     )
 }
@@ -42,12 +41,23 @@ function updateProductExplanation(category, product){
                 </ul>
             </div>
         `)
-    }
-
-    product["benefits"].forEach(benefit => {
-            $(".benefit-list").append(`
-                <li>`+ benefit +`</li>
-            `)
-        }
-    )
+        product["benefits"].forEach(benefit => {
+                $(".benefit-list").append(`
+                    <li>`+ benefit +`</li>
+                `)
+            }
+        )
+        $(".buy-product").append(`
+            <p>Buy our products on:</p>
+            <a href="https://www.tokopedia.com/search?q=`+ product["name"]  + " Scarlett-Whitening" +`">
+            <img src="" alt="tokopedia">
+            </a>
+            <a href="https://shopee.co.id/search?keyword=`+ product["name"]  + " Scarlett-Whitening" +`">
+            <img src="" alt="shopee">
+            </a>
+            <a href="https://www.sociolla.com/search?q=`+ product["name"] + " Scarlett-Whitening" +`">
+            <img src="" alt="sociolla">
+            </a>
+        `)
+    }   
 }

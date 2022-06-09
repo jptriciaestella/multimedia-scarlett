@@ -40,12 +40,13 @@ main{
 
 .product-description li{
     display: inline-block;
+    margin-bottom: 2px;
 }
 
 .product-description ul{
     display: flex;
     flex-direction: column;
-    white-space: nowrap;
+    white-space: wrap;
 }
 
 .product-description li::before{
@@ -56,4 +57,12 @@ main{
 
 .product-description > *{
     margin: 10px 0;
+}
+
+.buy-product{
+    margin: 40px;
+    width: 80%;
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
 }

@@ -45,7 +45,22 @@ body{
     margin: 0px;
     padding: 0px;
     background: #F7F5F2 !important;
+    animation: fadeInAnimation 0.3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
 }
+
+@keyframes fadeInAnimation {
+    from{
+      opacity:0;
+      transform:translateY(-10px);
+    }
+    to{
+      opacity: 1;
+      transform: translateY(0px);
+    }
+}
+
 
 iframe{
     width: 40vw;

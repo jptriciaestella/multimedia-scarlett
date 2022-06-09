@@ -37,6 +37,13 @@ article .learn-more-btn{
     margin: 0;
 }
 
+.learn-more-btn:hover{
+    /* color: #FFCDDD; */
+    border: 2px #FFCDDD solid;
+    background-color: #FFCDDD;
+    transition: 0.3s;
+}
+
 .body-product{
     flex-direction: row-reverse;
 }
