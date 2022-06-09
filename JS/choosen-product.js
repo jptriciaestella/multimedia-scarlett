@@ -42,12 +42,11 @@ function updateProductExplanation(category, product){
                 </ul>
             </div>
         `)
-    }
-
-    product["benefits"].forEach(benefit => {
-            $(".benefit-list").append(`
-                <li>`+ benefit +`</li>
-            `)
-        }
-    )
+        product["benefits"].forEach(benefit => {
+                $(".benefit-list").append(`
+                    <li>`+ benefit +`</li>
+                `)
+            }
+        )
+    }   
 }

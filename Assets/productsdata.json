@@ -189,6 +189,58 @@
                 "\"scarlet brighly ever after day cream, tekstur nya ga kental, gampang meresap ke kulit, aromanya ga terlalu menyengat, dan paling bagusnya lagi aman untuk ibu hamil alhamdulillah aku pakai ini dan cocok di kulit, buat kulit cerah.\""
             ],
             "reviewers" : ["Chysng", "Nailull", "Tikud"]
+        },
+
+        {
+            "name" : "Acne Cream Day",
+            "picture" : "/FaceCare/AcneCream-Day.png",
+            "description" : "Scarlett Acne Cream Day dapat membantu mengataskan masalah jerawat pada wajah. Gunakan produk ini secara rutin setiap pagi setelah membersihkan kulit wajah untuk mendapatkan hasil maksimal.",
+            "benefits" : ["Meredakan peradangan dan kemerahan pada wajah.", "Memperbaiki tekstur pada wajah.", "Memberi nutrisi dan kelembapan pada wajah."],
+            "ingredients" : ["Double Action Salicylic Acid", "Natural Vit-C", "Hexapeptide-8"],
+            "reviews" : ["\"Jujur hampir setahun yang lalu kulit wajahku  berjerawat, dan setelah berhasil hilangkan jerawat tapi masih ada sisa flek hitam dan agak kurang cerah, aku pakai rangkaian product scarlett whitening dan alhamdulillah udah pakai 3 - 4 bulan, kulit wajah mulai cerah dan flek hitam bekas jerawat memudar.\"",
+                "\"Sejauh ini efeknya bikin kulit aku gak kusam dan cerahan. Tekstur creamnya ringan, cepet meresap, gak greasyy, dan gampang di apply di wajah. Dari packagingnya bagus sih, kokoh, aku suka, ada lapisan pengamannya biar higienis. Menurut aku acne cream dari scarlett ini emang bisa nyerahin wajahh, intinya gak nyesel repurchase ini berkali-kali.\"",
+                "\"scarlett acne cream ini tekstur nya ga kental, gampang meresap ke kulit, aromanya ga terlalu menyengat, dan paling bagusnya lagi aman untuk ibu hamil alhamdulillah aku pakai ini dan cocok di kulit, buat kulit cerah.\""
+            ],
+            "reviewers" : ["Maria", "Loly", "Aisha"]
+        },
+
+        {
+            "name" : "Acne Cream Night",
+            "picture" : "/FaceCare/AcneCream-Night.png",
+            "description" : "Scarlett Acne Cream Night Di dalamnya terdapat kandungan CM Acnatu, Natural Squalane, Hexapeptide-8, Triceramide, Poreaway, Natural Vit-C dan Aqua Peptide Glow. Gunakan cream ini setiap malam dan dapatkan hasil yang maksimal.",
+            "benefits" : ["Membantu sebagai anti bakteri dan anti inflamasi alami yang dapat membantu melawan bakteri penyebab jerawat.", "Membantu mengurangi kemerahan dan bengkak.", "Membantu menghilangkan garis halus juga mengencangkan kulit wajah.", "Membantu memperbaiki tekstur bekas jerawat pada kulit wajah.", "Membantu mengecilkan pori-pori pada kulit wajah.", "Membantu memudarkan bekas-bekas jerawat pada kulit wajah."],
+            "ingredients" : ["CM Acnatu", "Natural Squalane", "Hexapeptide-8", "Triceramide", "Poreaway", "Natural Vit-C", "Aqua Peptide Glow"],
+            "reviews" : ["\"MANTAP BGT PRODUK INI! suka banget guys!\"",
+                "\"Sejauh ini efeknya bikin kulit aku gak kusam dan cerahan. yuk dicoba guys, puas banget! walaupun emang agak lama, tapi kalo rutin hasilnya memuaskan\"",
+                "\"Produk paling favorit sepanjang masa. Bikin tidur nyenyak tanpa perlu mikir jerawat gimana. Thanks, Scarlett!\""
+            ],
+            "reviewers" : ["Felia", "Andreas", "Lolita"]
+        },
+
+        {
+            "name" : "Acne Serum",
+            "picture" : "/FaceCare/AcneSerum.png",
+            "description" : "Acne Serum mengandung bahan yang aman. Teteskan 2-3 tetes serum, usap dan pijat secara perlahan sampai merata pada kulit wajah. Diamkan beberapa saat agar serum meresap ke kulit.",
+            "benefits" : ["Membantu menyembuhkan jerawat meradang, jerawat batu, kulit kemerahan dan iritasi.", "Membantu meregenerasi dan menjaga kulit yang sensitive tanpa menimbulkan iritasi.", "Membantu menenangkan kulit, menghaluskan dan juga membantu memudarkan bekas jerawat atau luka.", " Membantu mencerahkan kulit secara aman karena menggunakan Liquorice Extract dan Vitamin C yang juga berfungsi sebagai anti oxidant + anti pollution."],
+            "ingredients" : ["CM Acnatu", "Natural Squalane", "Hexapeptide-8", "Triceramide", "Poreaway", "Natural Vit-C", "Aqua Peptide Glow"],
+            "reviews" : ["\"Bau serum nya emang nggak terlalu enak, cuma khasiat nya bener-bener kerasa banget\"",
+                "\"Sejauh ini efeknya bikin jerawat aku hilang. yuk dicoba guys, puas banget! walaupun emang agak lama, tapi kalo rutin hasilnya memuaskan\"",
+                "\"Produk paling favorit sepanjang masa. Bikin tidur nyenyak tanpa perlu mikir jerawat gimana. Thanks, Scarlett!\""
+            ],
+            "reviewers" : ["Deby", "Bunga", "Feli"]
+        },
+
+        {
+            "name" : "Acne Wash - Oily",
+            "picture" : "/FaceCare/AcneWash-Oily.png",
+            "description" : "Acne Serum mengandung bahan yang aman. Teteskan 2-3 tetes serum, usap dan pijat secara perlahan sampai merata pada kulit wajah. Diamkan beberapa saat agar serum meresap ke kulit.",
+            "benefits" : ["Membantu menyembuhkan jerawat meradang, jerawat batu, kulit kemerahan dan iritasi.", "Membantu meregenerasi dan menjaga kulit yang sensitive tanpa menimbulkan iritasi.", "Membantu menenangkan kulit, menghaluskan dan juga membantu memudarkan bekas jerawat atau luka.", " Membantu mencerahkan kulit secara aman karena menggunakan Liquorice Extract dan Vitamin C yang juga berfungsi sebagai anti oxidant + anti pollution."],
+            "ingredients" : ["CM Acnatu", "Natural Squalane", "Hexapeptide-8", "Triceramide", "Poreaway", "Natural Vit-C", "Aqua Peptide Glow"],
+            "reviews" : ["\"Bau serum nya emang nggak terlalu enak, cuma khasiat nya bener-bener kerasa banget\"",
+                "\"Sejauh ini efeknya bikin jerawat aku hilang. yuk dicoba guys, puas banget! walaupun emang agak lama, tapi kalo rutin hasilnya memuaskan\"",
+                "\"Produk paling favorit sepanjang masa. Bikin tidur nyenyak tanpa perlu mikir jerawat gimana. Thanks, Scarlett!\""
+            ],
+            "reviewers" : ["Deby", "Bunga", "Feli"]
         }
     ]
 }
