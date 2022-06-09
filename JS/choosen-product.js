@@ -23,7 +23,7 @@ function updateData(){
 }
 
 function productUpdater(category, products){
-    products.some(
+    products.forEach(
         product => {
             updateProductExplanation(category, product)
             return true
