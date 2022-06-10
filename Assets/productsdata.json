@@ -19,8 +19,10 @@
             "description" : "Scarlett Yordanian Sea Salt Conditioner memiliki sensasi keharuman seperti cuci rambut di salon. Gunakan produk ini bersama dengan Yordanian Sea Salt Shampoo untuk mendapatkan hasil maksimal.",
             "benefits" : ["Melembutkan rambut", "Memperkuat dan mestimulasikan pertumbuhan rambut", "Membuat rambut lebih tebal dan lebih mudah diatur"],
             "ingredients" : ["Yordanian Sea Salt", "Aqua Demineralisata", "Cetearyl Alcohol"],
-            "reviews" : ["\"Wanginya enak sih cuma teksturnya padet sampe susah banget mau dikeluarin dari botol terus overprice juga ya isinya dikit tapi harga 55-75rb padahal ya conditioner gitu2 aja kan bikin rambut lembut aja.\""],
-            "reviewers" : ["Cheryl"]
+            "reviews" : ["\"Wanginya enak sih cuma teksturnya padet sampe susah banget mau dikeluarin dari botol terus overprice juga ya isinya dikit tapi harga 55-75rb padahal ya conditioner gitu2 aja kan bikin rambut lembut aja.\"",
+                "\"Suka banget sama wanginya berasa lagi di spa dan efektif buat rambutku jadi ga gampang kusut.\"",
+                "\"wanginya enak dan ga butuh bilasan berkali-kali untuk hilangin residu conditioner.\""],
+            "reviewers" : ["Cheryl", "Mutiautin", "Sabatini"]
         }
     ],
 
@@ -31,8 +33,10 @@
             "description" : "Scarlett Whitening Body Lotion Charming yang secara teratur dapat membantu menutrisi, melembabkan, dan mencerahkan kulit tubuh dengan lebih maksimal.",
             "benefits" : ["Membantu mencerahkan kulit", "Menutrisi kulit", "Melembabkan kulit"],
             "ingredients" : ["Glutathione", "Niacinamide", "Kojic Acid"],
-            "reviews" : ["\"pertama kali pake langsung jatuh cinta bangettt, wanginya bikin ketagihan paling wangi dan nagih sih menurutku, murce juga, untuk tipe skin aku yang normal cocok banget sih. melembabkan juga, love so much with this product\""],
-            "reviewers" : ["Widhaswara"]
+            "reviews" : ["\"pertama kali pake langsung jatuh cinta bangettt, wanginya bikin ketagihan paling wangi dan nagih sih menurutku, murce juga, untuk tipe skin aku yang normal cocok banget sih. melembabkan juga, love so much with this product\"",
+                "\"wanginya sama banget kayak baccarat dan tahan lama wanginya serta menyerap dengan sempurna dan ada efek whiteningnya.\"",
+                "\"buat aku dalam pemakaian dua minggu lumayan membantu kulit untuk lebih lembab, teksturnya lumayan mudah diblend, lebih suka wangi yang ini dibanding yang lain. Saat pemakaian langsung kelihatan lebih cerahnya.\""],
+            "reviewers" : ["Widhaswara", "Sheren", "Rinsa"]
         }, 
 
         {
@@ -41,8 +45,10 @@
             "description" : "Scarlett Brightening Fragrance Body Lotion Fantasia sangat efektif dalam membantu merawat kulit tubuh. Penggunaan secara rutin dapat bantu memberi nutrisi, melembabkan serta mencerahkan kulit tubuh dengan lebih maksimal..",
             "benefits" : ["Menutrisikan kulit", "Melembabkan kulit", "Mencerahkan kulit"],
             "ingredients" : ["Glutathione", "Vitamin E", "Kojic Acid"],
-            "reviews" : ["\"Lotionnya lembut bangeet! Wanginya juga lembut, tapi harum, cocok banget ama guee.\""],
-            "reviewers" : ["Nadya"]
+            "reviews" : ["\"Lotionnya lembut bangeet! Wanginya juga lembut, tapi harum, cocok banget ama guee.\"",
+                "\"lotion ini ternyata aromanya enak seger dan gak eneg manis banget kayak yang biasanya gitu. repurchased karena aromanya yang seger hampir kayak timun.\"",
+                "\"produk nya bagus banget, lembut banget saat di apply dikulit dan bikin lembab seharian. lotion scarlett fantasia ini juga bikin cerah dikulit udah gitu wangi banget. pokonya suka banget sama produk scarlett ini.\""],
+            "reviewers" : ["Nadya", "Gadis", "Natalia"]
         },
 
         {
@@ -51,8 +57,10 @@
             "description" : "Scarlett Whitening Body Lotion Freshy yang secara teratur dapat membantu menutrisi, melembabkan, dan mencerahkan kulit tubuh dengan lebih maksimal.",
             "benefits" : ["Membantu mencerahkan kulit", "Menutrisi kulit", "Melembabkan kulit"],
             "ingredients" : ["Glutathione", "Niacinamide", "Kojic Acid"],
-            "reviews" : ["\"Baunya sangat menyegarkan, terus cocok juga sama kulit saya. Suka banget pake produknya Scarlett.\""],
-            "reviewers" : ["Widya"]
+            "reviews" : ["\"Baunya sangat menyegarkan, terus cocok juga sama kulit saya. Suka banget pake produknya Scarlett.\"",
+                "\"tergila gila banget sama product scarlett terutama lotionnya karena emang sebagus itu efeknya di aku, bisa mencerahkan kulit,untuk yg freshy ini aku baru pertama kali coba baunya menurutku enak seger kek bau buah buahan gitu, gampang di apply di kulit.\"",
+                "\"aku pake ini udah lama banget, dan aku suka lotionn dari scarlett ini, terbukti banget bisa mencerahkan karena mengandung gluatathion\""],
+            "reviewers" : ["Widya", "Septi", "Nica"]
         },
 
         {
@@ -61,7 +69,9 @@
             "description" : "Scarlett Whitening Body Lotion Jolly yang secara teratur dapat membantu menutrisi, melembabkan, dan mencerahkan kulit tubuh dengan lebih maksimal.",
             "benefits" : ["Membantu mencerahkan kulit", "Menutrisi kulit", "Melembabkan kulit"],
             "ingredients" : ["Glutathione", "Niacinamide", "Kojic Acid"],
-            "reviews" : ["\"Dulu, saya gonta ganti produk terus untuk melembutkan Kulit kasar saya, tetapi tidak berhasil. Setelah menggunakan lotion Scarlett, kulit saya langsung jadi lembut. Terima kasih Scarlett!.\""],
+            "reviews" : ["\"Dulu, saya gonta ganti produk terus untuk melembutkan Kulit kasar saya, tetapi tidak berhasil. Setelah menggunakan lotion Scarlett, kulit saya langsung jadi lembut. Terima kasih Scarlett!.\"",
+                "\"Suka banget sama wanginya berasa lagi di spa dan efektif buat rambutku jadi ga gampang kusut.\"",
+                "\"wanginya enak dan ga butuh bilasan berkali-kali untuk hilangin residu conditioner.\""],
             "reviewers" : ["Liliana"]
         },
 
@@ -71,18 +81,22 @@
             "description" : "Scarlett Whitening Body Lotion Romansa yang secara teratur dapat membantu menutrisi, melembabkan, dan mencerahkan kulit tubuh dengan lebih maksimal.",
             "benefits" : ["Membantu mencerahkan kulit", "Menutrisi kulit", "Melembabkan kulit"],
             "ingredients" : ["Glutathione", "Niacinamide", "Kojic Acid"],
-            "reviews" : ["\"Wanginya harum dan lembut, suka bangeeetttt!\""],
-            "reviewers" : ["Alana"]
+            "reviews" : ["\"Wanginya harum dan lembut, suka bangeeetttt!\"",
+                "\"Wanginya lumayan enak, efeknya langsung bikin kulit putih ga yg abu2, varian ini lumayan lembabnya,wanginya juga tahan lama, teksturnya creamy gampang di ratain, cepet meresap, dan ga lengket. Suka sama packagingnya karena ga terlalu besar dan ada locknya jadi ga gampang kepencet.\"",
+                "\"bentuknya cantik, wanginya harum, mudah dibawa kemanapun karena praktis, tekstur nya tidak lengket sangat enak dipakai, dapat melembabkan kulit menjadi lebih halus dan putih melindungi dari sinar jahat matahari\""],
+            "reviewers" : ["Alana", "Afrizal", "Hanny"]
         },
 
         {
-            "name" : "Body Scrub Charming",
+            "name" : "Body Shower Charming",
             "picture" : "/BodyCare/Scrub-Charming.png",
             "description" : "Scarlett Whitening Body Scrub Charming yang dapat mengaluskan, melembabkan, dan mencerahkan kulit tubuh dengan lebih maksimal.",
             "benefits" : ["Memperhalus kulit", "Menutrisi kulit", "Melembabkan kulit"],
             "ingredients" : ["Glutathione", "Niacinamide", "Kojic Acid"],
-            "reviews" : ["\"Kulit punggung jadi halus dan ku jadi bebas dari backacne. Gak nyangka produknya bakal seefektif ini!\""],
-            "reviewers" : ["Lyra"]
+            "reviews" : ["\"Kulit punggung jadi halus dan ku jadi bebas dari backacne. Gak nyangka produknya bakal seefektif ini!\"",
+                "\"Recommended banget sabunnya suka banget sama wanginya dan pastinya buat kulit jadi terasa lembut dan wangi. Buliran scrubnya juga gak kasar jadi bener bener cocok banget di pake setiap hari.\"",
+                "\"Aku suka coba-coba varian shower scrub scarlett. Selalu senang banget mandi pakai shower scrub ini. Badan jadi bersih, wangi, dan segar. Shower scrub ini bertekstur gel dan ada butiran scrub kecilnya. Setelah mandi, kulit mati terasa terangkat.\""],
+            "reviewers" : ["Lyra", "Nada", "Debbie"]
         },
 
         {
@@ -91,28 +105,34 @@
             "description" : "Scarlett Whitening Body Scrub Coffee yang dapat mengaluskan, melembabkan, dan mencerahkan kulit tubuh dengan lebih maksimal.",
             "benefits" : ["Memperhalus kulit", "Menutrisi kulit", "Melembabkan kulit"],
             "ingredients" : ["Glutathione", "Niacinamide", "Kojic Acid"],
-            "reviews" : ["\"Enak banget wanginya. Kulit juga jadi cerah dan halus habis pakai body scrub Scarlett!\""],
-            "reviewers" : ["Lady"]
+            "reviews" : ["\"Enak banget wanginya. Kulit juga jadi cerah dan halus habis pakai body scrub Scarlett!\"",
+                "\"SUKA BANGETT, selain wanginya kopi sebagai favorit aku dia juga teksturnya tuh lembut banget, gaada yg ngalahinn wangi nya.\"",
+                "\"Aku juga sudah nyobain sendiri hasilnya bener bener bagus banget, aapalagi varian coffee ini butiran kecilnya bisa mengangkat sel kulit mati juga bisa bikin kulit jadi lembut.\""],
+            "reviewers" : ["Lady", "Ayca", "Cede"]
         },
 
         {
-            "name" : "Body Scrub Freshy",
+            "name" : "Body Shower Freshy",
             "picture" : "/BodyCare/Scrub-Freshy.png",
             "description" : "Scarlett Whitening Body Scrub Freshy yang dapat mengaluskan, melembabkan, dan mencerahkan kulit tubuh dengan lebih maksimal.",
             "benefits" : ["Memperhalus kulit", "Menutrisi kulit", "Melembabkan kulit"],
             "ingredients" : ["Glutathione", "Niacinamide", "Kojic Acid"],
-            "reviews" : ["\"Selain menghaluskan kulit, rasanya jadi seger banget habis menggunakan produk ini!\""],
-            "reviewers" : ["Princess"]
+            "reviews" : ["\"Selain menghaluskan kulit, rasanya jadi seger banget habis menggunakan produk ini!\"",
+                "\"yang aku suka itu wanginya seger banget! kalau abis mandi, aku ngerasa wangi banget dan rasanya seger banget varian freshy ini.\"",
+                "\"Teksturnya sama kayak shower scrub varian sebelumnya, gel dan ada microscrub yang bikin tambah cantik teksturnya. Wanginya persis banget sama body lotion freshy, perpaduan aroma floral dan fruity yang seger dan ga terlalu strong. Pokoknya enak banget, ini varian shower scrub Scarlett yang paling aku suka.\""],
+            "reviewers" : ["Princess", "Zia", "Daisies"]
         },
 
         {
-            "name" : "Body Scrub Jolly",
+            "name" : "Body Shower Jolly",
             "picture" : "/BodyCare/Scrub-Jolly.png",
             "description" : "Scarlett Whitening Body Scrub Jolly yang dapat mengaluskan, melembabkan, dan mencerahkan kulit tubuh dengan lebih maksimal.",
             "benefits" : ["Memperhalus kulit", "Menutrisi kulit", "Melembabkan kulit"],
             "ingredients" : ["Glutathione", "Niacinamide", "Kojic Acid"],
-            "reviews" : ["\"Awalnya beli produk ini karena direkomendasi temen. Ternyata habis beberapa kali pemakaian, kulitku jadi halus banget. Recommended banget!\""],
-            "reviewers" : ["Dhea"]
+            "reviews" : ["\"Awalnya beli produk ini karena direkomendasi temen. Ternyata habis beberapa kali pemakaian, kulitku jadi halus banget. Recommended banget!\"",
+                "\"Teksturnya gel ada butiran scrubnya, mudah di aplikasikan , wanginya juga enak banget lembut gak bikin pusing,bikin rajin mandi karena wanginya seenak itu.\"",
+                "\"Body scrub enak bangett Wanginya sama kayak body lotion. Setelah dibilas lembab,halus dan sedikit licin. busanya sedikit, tekstur gel, Scrub nya kecil gak bikin sakit juga dan wanginya lumayan tahan lama.\""],
+            "reviewers" : ["Dhea", "Andriska", "Nadia"]
         },
 
         {
@@ -121,8 +141,10 @@
             "description" : "Scarlett Whitening Body Scrub Pomegranate yang dapat mengaluskan, melembabkan, dan mencerahkan kulit tubuh dengan lebih maksimal.",
             "benefits" : ["Memperhalus kulit", "Menutrisi kulit", "Melembabkan kulit"],
             "ingredients" : ["Glutathione", "Niacinamide", "Kojic Acid"],
-            "reviews" : ["\"Suka banget sama produknya. Kulit jadi halus dan lembap habis pemakaian beberapa minggu. Wanginya juga enak banget.\""],
-            "reviewers" : ["Wanda"]
+            "reviews" : ["\"Suka banget sama produknya. Kulit jadi halus dan lembap habis pemakaian beberapa minggu. Wanginya juga enak banget.\"",
+                "\"Wangi banget!! Kalau rangkaian scarlet sih udah yakin pasti nyari wanginya. Tapi oke juga kok buat mengankat sel kulit matinya. Dan untuk harganya worth it sih dengan isi yang banyak dan juga scrubnya enak banget pas di pakai.\"",
+                "\"bodyscrub terbaikk yg pernah aku coba! Scrubnya bener bener padet jadi pake dikit aja udh bisa buat exfoliasi sebadan dgn baik! Emang scrubnya ga begitu halus tapi justru di aku efektivitasnya makin kerasa\""],
+            "reviewers" : ["Wanda", "Laila", "Aushaf"]
         },
 
         {
@@ -131,8 +153,10 @@
             "description" : "Scarlett Whitening Body Scrub Romansa yang dapat mengaluskan, melembabkan, dan mencerahkan kulit tubuh dengan lebih maksimal.",
             "benefits" : ["Memperhalus kulit", "Menutrisi kulit", "Melembabkan kulit"],
             "ingredients" : ["Glutathione", "Niacinamide", "Kojic Acid"],
-            "reviews" : ["\"Dulu dibeliin temen sebagai hadiah. Ternyata cocok banget sama kulitku. Sekarang jadi ketagihan beli terus\""],
-            "reviewers" : ["Lily"]
+            "reviews" : ["\"Dulu dibeliin temen sebagai hadiah. Ternyata cocok banget sama kulitku. Sekarang jadi ketagihan beli terus\"",
+                "\"Seneng banget dapet Scarlett Body Scrub Romansa. Salah satu wishlist ku dari dulu, body scrub ini untuk mencerahkan, mengangkat sel kulit mati juga melembapkan kulit. Wanginya seperti wangi floral dan buah peach, jadi bikin semangat luluran.\"",
+                "\"Scarlett body scrub ini bagus banget! Tidak lengket wangi dan bagus banget di kulit bikin kulit halus dan cerah, tekstur nya juga creamy bgt ga terlalu kasar dan ini bener bener lembut banget pas selesai mandi pake ini kaya langsung bersihan.\""],
+            "reviewers" : ["Lily", "Bella", "Gunawan"]
         },
 
         {
@@ -141,8 +165,10 @@
             "description" : "Scarlett Whitening Body Shower Coffee yang dapat memiliki harum kopi yang lembut serta melembabkan, dan mencerahkan kulit tubuh dengan lebih maksimal.",
             "benefits" : ["Memperhalus kulit", "Menutrisi kulit", "Melembabkan kulit"],
             "ingredients" : ["Glutathione", "Niacinamide", "Kojic Acid"],
-            "reviews" : ["\"Enak banget wanginya! Kulit jadi licin dan lembap habis pemakaian rutin.\""],
-            "reviewers" : ["Poppy"]
+            "reviews" : ["\"Enak banget wanginya! Kulit jadi licin dan lembap habis pemakaian rutin.\"",
+                "\"wanginya enak, setelah dibilas pun ngga ninggalin kesan licin maupun bikin kering, butiran microbeadsnya ngga kasar, busanya lumayan melimpah.\"",
+                "\"ini aromanya kopi banget. sebagai pecinta kopi aku suka pake body scrub ini, wanginya dia longlasting banget\""],
+            "reviewers" : ["Poppy", "Cayen", "Floala"]
         },
 
         {
@@ -151,8 +177,10 @@
             "description" : "Scarlett Whitening Body Shower Cucumber yang dapat memiliki harum timun yang menyegarkan serta melembabkan, dan mencerahkan kulit tubuh dengan lebih maksimal.",
             "benefits" : ["Memperhalus kulit", "Menutrisi kulit", "Melembabkan kulit"],
             "ingredients" : ["Glutathione", "Niacinamide", "Kojic Acid"],
-            "reviews" : ["\"Wanginya segar dan tahan lama. Busanya tidak terlalu banyak. Karena aku suka busanya banyak, jadi boros pemakaiannya...\""],
-            "reviewers" : ["Widha"]
+            "reviews" : ["\"Wanginya segar dan tahan lama. Busanya tidak terlalu banyak. Karena aku suka busanya banyak, jadi boros pemakaiannya...\"",
+                "\"Pas mandi enak sih seger dan karena ada scrub nya maksimal angkat sel kulit mati kita. Pokoknya ngerasa bener-bener mandi yang bersih gitu.\"",
+                "\"Relaxing aroma plus soft texture-nya jangan ditanya. Ini enak banget, berasa mandi sama mentimun. Microbeads di dalamnya gak ganggu sama sekali, mereka melted bareng si busa.\""],
+            "reviewers" : ["Widha", "Dyah", "Ana"]
         },
 
         {
@@ -161,8 +189,10 @@
             "description" : "Scarlett Whitening Body Shower Mango yang dapat memiliki harum mangga yang manis serta melembabkan, dan mencerahkan kulit tubuh dengan lebih maksimal.",
             "benefits" : ["Memperhalus kulit", "Menutrisi kulit", "Melembabkan kulit"],
             "ingredients" : ["Glutathione", "Niacinamide", "Kojic Acid"],
-            "reviews" : ["\"Kulit jadi terasa lebih segar dan lembut setelah pakai Body Shower Mango ini. Suka banget sama wangi buah-buahan.\""],
-            "reviewers" : ["Rita"]
+            "reviews" : ["\"Kulit jadi terasa lebih segar dan lembut setelah pakai Body Shower Mango ini. Suka banget sama wangi buah-buahan.\"",
+                "\"Cukup terjangkau dengan kemasan yang super jumbo. Aromanya juga seger dan wangi banget. Butiran scrub nya halus jadi nyaman dipake ke kulit.\"",
+                "\"Wah ini tu wangi mangga gitu manis-manis segar buat mood banget kalau mandi pake ini bikin kulit makin lembut dan lembab, kulit jadi berasa lebih sehat\""],
+            "reviewers" : ["Rita", "Nyushella", "Septi"]
         },
 
         {
@@ -171,8 +201,10 @@
             "description" : "Scarlett Whitening Body Shower Pomegranate yang dapat memiliki harum pomegranate yang manis serta melembabkan, dan mencerahkan kulit tubuh dengan lebih maksimal.",
             "benefits" : ["Memperhalus kulit", "Menutrisi kulit", "Melembabkan kulit"],
             "ingredients" : ["Glutathione", "Niacinamide", "Kojic Acid"],
-            "reviews" : ["\"Kulit jadi tidak lengket dan terasa mulus setelah pemakaian rutin. Suka banget produknya!\""],
-            "reviewers" : ["Lala"]
+            "reviews" : ["\"Kulit jadi tidak lengket dan terasa mulus setelah pemakaian rutin. Suka banget produknya!\"",
+                "\"Wanginya enak banget sih jujur. Ada butiran-butiran scrub juga. Butirannya halus banget jadi nggak bikin sakit.\"",
+                "\"sukaa banget sama wangi brightening shower scrub yang variant pomegrante ini, bikin kulit jadi halus. kulit ku ga kering lagi pake ini. ada butiran- butiran kecil nya walaupun lembut bisa ngangkat sel kulit dan harga nya juga worth it to buy.\""],
+            "reviewers" : ["Lala", "Vuza", "Damayanti"]
         }
     ],
 
